@@ -1,0 +1,14 @@
+D:\Blabz\RFP\AddressBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.exe
+D:\Blabz\RFP\AddressBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.deps.json
+D:\Blabz\RFP\AddressBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.runtimeconfig.json
+D:\Blabz\RFP\AddressBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.runtimeconfig.dev.json
+D:\Blabz\RFP\AddressBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.dll
+D:\Blabz\RFP\AddressBook\UC3\UC3\bin\Debug\netcoreapp3.1\UC3.pdb
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.csproj.AssemblyReference.cache
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.AssemblyInfoInputs.cache
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.AssemblyInfo.cs
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.csproj.CoreCompileInputs.cache
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.dll
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.pdb
+D:\Blabz\RFP\AddressBook\UC3\UC3\obj\Debug\netcoreapp3.1\UC3.genruntimeconfig.cache
